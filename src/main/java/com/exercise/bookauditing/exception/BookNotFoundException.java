@@ -1,4 +1,4 @@
-package com.exercise.BookAuditingApp.exception;
+package com.exercise.bookauditing.exception;
 
 public class BookNotFoundException extends RuntimeException {
     public BookNotFoundException(String message) {

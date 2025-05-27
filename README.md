@@ -5,4 +5,4 @@ A simple entity book with auditing capabilities to track who created/modified re
 
 ## Project structure
 
-*   **[com.exercise.BookAuditingApp](src/main/java/com/exercise/BookAuditingApp)**: The main application package.
+*   **[com.exercise.bookauditing](src/main/java/com/exercise/bookauditing)**: The main application package.

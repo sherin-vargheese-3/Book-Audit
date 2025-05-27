@@ -1,4 +1,4 @@
-package com.exercise.BookAuditingApp.exception;
+package com.exercise.bookauditing.exception;
 
 import org.springframework.http.HttpStatus;
 import org.springframework.web.bind.annotation.ExceptionHandler;

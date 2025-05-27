@@ -1,4 +1,4 @@
-package com.exercise.BookAuditingApp.dtos;
+package com.exercise.bookauditing.dtos;
 
 import lombok.AllArgsConstructor;
 import lombok.Builder;

@@ -1,9 +1,9 @@
-package com.exercise.BookAuditingApp.service;
+package com.exercise.bookauditing.service;
 
-import com.exercise.BookAuditingApp.dtos.BookDTO;
-import com.exercise.BookAuditingApp.exception.BookNotFoundException;
-import com.exercise.BookAuditingApp.model.Book;
-import com.exercise.BookAuditingApp.repository.BookRepository;
+import com.exercise.bookauditing.dtos.BookDTO;
+import com.exercise.bookauditing.exception.BookNotFoundException;
+import com.exercise.bookauditing.model.Book;
+import com.exercise.bookauditing.repository.BookRepository;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
 

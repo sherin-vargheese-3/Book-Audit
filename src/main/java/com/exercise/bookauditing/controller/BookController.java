@@ -1,8 +1,8 @@
-package com.exercise.BookAuditingApp.controller;
+package com.exercise.bookauditing.controller;
 
-import com.exercise.BookAuditingApp.dtos.BookDTO;
-import com.exercise.BookAuditingApp.model.Book;
-import com.exercise.BookAuditingApp.service.BookService;
+import com.exercise.bookauditing.dtos.BookDTO;
+import com.exercise.bookauditing.model.Book;
+import com.exercise.bookauditing.service.BookService;
 import org.springframework.http.HttpStatus;
 import org.springframework.http.ResponseEntity;
 import org.springframework.web.bind.annotation.*;

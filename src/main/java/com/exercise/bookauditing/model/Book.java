@@ -1,4 +1,4 @@
-package com.exercise.BookAuditingApp.model;
+package com.exercise.bookauditing.model;
 
 
 import jakarta.persistence.*;

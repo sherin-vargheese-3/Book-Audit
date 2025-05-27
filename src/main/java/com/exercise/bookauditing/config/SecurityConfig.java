@@ -1,4 +1,4 @@
-package com.exercise.BookAuditingApp.config;
+package com.exercise.bookauditing.config;
 
 import org.springframework.context.annotation.Bean;
 import org.springframework.context.annotation.Configuration;
